@@ -1,0 +1,10 @@
+pandas==2.0.3
+Requests==2.31.0
+streamlit==1.30.0
+
+
+https://bike-model-kxhqhrqe4syrpsgogvvv5j.streamlit.app/
+
+
+
+https://bike-model-kxhqhrqe4syrpsgogvvv5j.streamlit.app/ = Final
